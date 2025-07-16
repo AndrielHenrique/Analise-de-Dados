@@ -1,3 +1,1 @@
-# Analise-de-Dados
-Base 02 - Sono e Estilo de Vida
-Alunos: Andriel Henrique e Diego Floriano
+# Projetos realizados durante as aulas de Analise-de-Dados
