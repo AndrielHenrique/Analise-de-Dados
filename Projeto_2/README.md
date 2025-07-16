@@ -13,7 +13,7 @@ cada modelo frente aos dados fornecidos. O trabalho exige:
 
 Copiar o link do repositório github com o .ipynb
 ```bash
-https://github.com/AndrielHenrique/Analise-de-Dados/blob/main/Machine_Learning_Base_02.ipynb
+https://github.com/AndrielHenrique/Analise-de-Dados/blob/main/Projeto_2/Machine_Learning_Base_02.ipynb
 ```
 
 ## Google collab
